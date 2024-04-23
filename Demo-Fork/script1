@@ -1,0 +1,5 @@
+#!/bin/bash
+echo "290124-wdm IrynaLomonos"
+Date=date
+echo "Date"
+
